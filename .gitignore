@@ -1,0 +1,16 @@
+# My Files
+output
+input
+*.xlsx
+
+# Intellij Idea
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+dist
+build
+venv
+*.spec
